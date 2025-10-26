@@ -207,7 +207,10 @@ marimo/_lsp/
 __marimo__/
 
 # Config
-*.ini
+conf/*.ini
 
 # Data
 data/*
+
+# vscode settings
+.vscode/settings.json

@@ -4,3 +4,6 @@ PORT = 3306
 DATABASE = bank_data_db
 USER = your_username_here
 PASSWORD = your_password_here
+
+[TSHARE]
+TOKEN = your_tushare_pro_token_here

@@ -1,0 +1,13 @@
+# requirements.txt - pinned dependencies
+flask==2.3.2
+requests==2.31.0
+numpy==1.26.1
+pandas==2.2.2
+uvicorn==0.22.0
+fastapi==0.95.0
+sqlalchemy==2.0.19
+alembic==1.10.4
+python-dotenv==1.0.0
+pytest==7.3.2
+black==24.1.0
+mypy==1.5.1

@@ -1,4 +1,4 @@
--- 尝试创建数据库（如果不存在）。注意：这里使用了一个默认名，请确保与settings.ini中的名称一致
+-- 尝试创建数据库（如果不存在）。
 CREATE DATABASE IF NOT EXISTS bank_analysis_db DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- 切换到新创建的数据库

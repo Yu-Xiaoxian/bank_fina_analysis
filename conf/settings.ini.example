@@ -1,0 +1,6 @@
+[DATABASE]
+HOST = localhost
+PORT = 3306
+DATABASE = bank_data_db
+USER = your_username_here
+PASSWORD = your_password_here
